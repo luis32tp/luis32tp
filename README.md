@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @luis.molon
-- 👀 I’m interested in ...aprender
+# sobre mim
+
+- Olá meu nome é @luis.molon
+- 👀 Estou interessado em ...aprender
 - 🌱 I’m currently learning ...nada
 - 💞️ I’m looking to collaborate on ESTUDO
 - 📫 How to reach me .ṔELA ESTRADA
